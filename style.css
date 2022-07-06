@@ -8,7 +8,7 @@ body {
 }
 
 h1 {
-    font-size: 30px;
+    font-size: 40px;
 }
 
 .orange {
@@ -16,7 +16,7 @@ h1 {
 }
 
 .sylhet {
-    color: aliceblue;
+    color: whitesmoke;
     text-align: center;
     margin-top: 0;
     outline: 2px solid black;
@@ -28,11 +28,13 @@ h1 {
 }
 
 .link1 {
+
     color: aliceblue;
     text-decoration: none;
     background-image: linear-gradient(orange, tomato);
     padding: 10px 40px;
     border-radius: 10px;
+    margin-top: 10px;
 }
 
 .donation {
@@ -101,4 +103,21 @@ h1 {
     background-image: linear-gradient(orange, tomato);
     padding: 5px 20px;
     border-radius: 10px;
+}
+
+.topbannerflex {
+    margin-top: 5%;
+    margin-bottom: 5%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    display: flex;
+}
+
+.Half {
+    width: 50%;
+    padding-left: 2%;
+}
+
+.Half img {
+    width: 80%;
 }
