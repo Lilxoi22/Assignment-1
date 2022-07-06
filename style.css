@@ -33,7 +33,7 @@ h1 {
 
 .donation {
     text-align: center;
-    margin-top: 5%;
+    margin-top: 10%;
 }
 
 .taka {
@@ -42,4 +42,10 @@ h1 {
     margin-left: 10px;
     margin-right: 10px;
 
+}
+
+.plan {
+    margin-top: 10%;
+    margin-bottom: 5%;
+    text-align: center;
 }
